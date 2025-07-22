@@ -1,0 +1,76 @@
+# Some Ideas Metroidvenia
+- **Character / Team / Figuren**
+
+
+Johannisbeere (rot, schwarz, weiß)
+- **Bewegung und Kampf**
+    - Bewegung mit WASD oder Stick
+    - Aktionen mit Pfeiltasten
+    - Schießen mit Pfeiltasten
+- **Levelstruktur**
+    - Basis gegen anrückende Monsterwellen verteidigen
+    - Sammeln von Ressourcen, um Upgrades und Verteidigung zu finanzieren.
+    - Kampf-Räume, Schatzräume, Schutzräume, Shopräume (Gegenstände gegen Münzen)
+    - Geheimräume, Spezialräume, Bossräume
+    - Welt prozedural generiert
+- **Ressourcen und Upgrades**
+    - **Ressource 1** Basis für die meisten Upgrades
+    - **Ressourcen 2** Unterstützt spezielle Technologien
+    - **Ressourcen 3** kann auch für Verteidigungsupgrades genutzt werden
+    - **Basis, Waffen, und Charakter** kann verbessert werden.
+    - Alle Upgrades kosten, Ressourcen – **Balancieren**, worauf konzentrieren:
+    - Defensive (mehr Leben, schnellere Waffen)
+    - Mobilität (schneller Ressourcenabbau)
+    - Effizienz (Technologien)
+- **Items**
+    - Über 700+ Items und Items verändern:
+    - Schuss, Arbeiten, Aktionen
+    - Gesundheit, Geschwindigkeit, Schaden, Reichweite usw.
+    - Neue Fähigkeiten gdurch spezial Items (Fliegen, Bomben legen, Begleiter etc.)
+    - passive oder aktive Effekte haben (aktive Items aufladen)
+- **Roguelike-Elemente**
+    - Permadeath: Bei Tod, ist der Run vorbei
+    - Jeder Run ist zufällig: Räume, Gegner, Items
+    - beim Spielen werden dauerhaft neue Items, Charaktere, Enden und Geheimnisse freigeschaltet.
+    - Jeder Run ist anders: Kartenstruktur, Ressourcenverteilung, Gegnerwellen
+    - Verschiedene Basenausgangslage und Waffen
+    - Nach einem verlorenen Run **Meta-Upgrades freischalten, die spätere Runs erleichtern**
+    - **Effizientes Ressourcenmanagement**
+    - **Abbauzeit und Transportwege** – Wegplanung und Zwischenstopps, um effizient zu arbeiten.
+        - Upgrades priorisieren
+    - **Zeitmanagement**
+        - begrenzte Zeit, bevor die nächste Monsterwelle kommt.
+        - rechtzeitig zur Verteidigung zurück!
+    - **Verteidigung clever ausbauen**
+        - Entscheiden: Mehr Schaden, mehr Reichweite oder mehr Kontrolle?
+    - **Heilung vs. Verstärkung**
+        - Heilen oder Basis verstärken – eine taktische Entscheidung je nach Situation.
+    - **Risiko vs. Belohnung**
+        - Je tiefer graben/ Wege weiter, desto wertvoller sind die Ressourcen – aber auch der Rückweg dauert länger.
+
+- **Strategie und Spieltiefe**
+    - Item-Synergien: Viele Items kombinieren sich auf absurde oder geniale Weise.
+    - Waffen, Projektile werden kombiniert zu mächtigen Waffen
+    - Challenge Runs: Spezielle Modi mit festen Bedingungen (z. B. kein Shop, bestimmte Items, kein Schaden nehmen).
+    - Geheime Pfade / Enden: Viele geheime Wege führen zu neuen Bossen, Charakteren und Enden oder Items
+
+- **Beispiel eines typischen Runs**
+    - Start mit Standardbasis und Werkzeug
+    - Eisen verbessert Tragewert
+    - Erste Monsterwelle → leicht besiegbar
+    - Wasser → verbessert Technologie
+    - Finden von Ressourcen schneller → schnellere Upgrades
+    - Spätere Wellen bringen schwerere Gegner → Waffen upgraden, falls noch nicht geschehen
+    - Entscheidung: Überleben so lange wie möglich ODER Suchlauf starten, um ein Ziel zu erreichen und den Run zu beenden
+    - Ebenen durchlaufen, Truhen öffnen, Monster bekämpfen
+    - Endboss bezwungen → ein neues Item oder Charakter freigeschaltet
+    - **Grabungsphase**
+        - Graben um Ressourcen zu sammeln
+        - Eisen – Basisrohstoff
+        - Wasser – für bestimmte Technologien
+        - Kobalt – zum Heilen der Kuppel
+    - **Verteidigungsphase**
+        - In regelmäßigen Abständen erscheinen Monsterwellen.
+        - Du steuerst ein Geschütz auf der Kuppel (horizontal beweglich) und zielst auf Feinde.
+        - Spätere Upgrades ermöglichen Laser, Bomben, Schockwellen etc.
+

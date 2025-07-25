@@ -1,9 +1,9 @@
 # Some Ideas Rougelike
 - **Mit anderen Genre verbinden**
     - Roguelike Action-Game
-    - Dorf-/Basis-Management-Simulation
+    - Basis-Management-Simulation
     - Dungeon-Crawler
-    - Sektenleiter, Manager, man muss Character fuer seine Sache begeistern oder bei Laune halten
+    - Sektenleiter, Manager, man muss NPCs fuer seine Sache begeistern oder bei Laune halten
 - **Bewegung und Kampf**
     - Bewegung mit WASD oder Stick
     - Aktionen mit Pfeiltasten
@@ -24,7 +24,7 @@
     - Mobilität (schneller Ressourcenabbau)
     - Effizienz (Technologien)
 - **Items**
-    - Über 700+ Items und Items verändern:
+    - a lot of Items und Items
     - Schuss, Arbeiten, Aktionen
     - Gesundheit, Geschwindigkeit, Schaden, Reichweite usw.
     - Neue Fähigkeiten gdurch spezial Items (Fliegen, Bomben legen, Begleiter etc.)
